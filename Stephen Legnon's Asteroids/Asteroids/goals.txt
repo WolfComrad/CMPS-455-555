@@ -1,8 +1,0 @@
-Easiest
-|----Ship has a health system ✅
-|----Limit ship gas so they cannot move at all times ✅
-|----Visiblility limited to circle around ship ✅
-|----Flashlight that can be turned on and off to make cone go out in front of ship ✅
-|----Change physics to be floaty/spacey so forward input is not always needed to move ✅
-|----Activate a bullet time mechanic ✅
-Hardest
